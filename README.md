@@ -3,9 +3,12 @@
 Valendo 2 pontos
 
 Questão 1
+
 Resposta: d;
 
+
 #Questão 2
+
 ##A
 
 void main() {
