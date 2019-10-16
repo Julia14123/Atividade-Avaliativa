@@ -14,3 +14,14 @@ void main() {
 }
 
 ##B
+escrever(){
+  for (int i = 1; i<11; i++){
+    print(i);
+  }
+}
+
+void main() {
+  escrever();
+}
+
+##C
